@@ -1,6 +1,4 @@
-// Harsh kumar
-// 24070123146
-// B3
+
 #include <iostream>
 int main(){
     float n1,n2,ans;
@@ -23,4 +21,5 @@ int main(){
 /* Output:
 enter value of number 1 & 2: 12 35
 answer = 0.342857
+
 */
