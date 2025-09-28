@@ -1,6 +1,4 @@
-//Harsh kumar
-//24070123146
-//B3
+
 #include <iostream>
 #include <string>
 int main(){
@@ -24,4 +22,5 @@ int main(){
 /* Output :
 enter age of person : 12
 ERROR : UNDERAGE !! ( 12)
+
 */
